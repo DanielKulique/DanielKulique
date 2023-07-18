@@ -4,8 +4,8 @@
 
 <div>
   
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=danielkulique&show_icons=true&theme=blue-green"/>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkulique&layout=compact&langs_count=16&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielkulique&show_icons=true&theme=blue-green"/>
+  <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkulique&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
 <br>
 
